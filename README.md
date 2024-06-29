@@ -1,2 +1,2 @@
 Hi. I'm Freesia.
-I don't hop on GitHub all too often, and normally just mess around on here privately :)
+I don't hop on this GitHub account all too often, and normally just mess around on here privately :)
