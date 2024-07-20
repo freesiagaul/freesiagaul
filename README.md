@@ -1,4 +1,4 @@
-Hello, my name is Freesia Gaul! <br>
+Hello, my name is Freesia Gaul!
 I'm a Quantum Engineering (Honours) student at UNSW. <br>
 This is my professional GitHub page, where I store past challenges and work mainly from quantum-based corners.
 
