@@ -1,6 +1,6 @@
 Hello, my name is Freesia Gaul!
 I'm a Quantum Engineering (Honours) student at UNSW. <br>
-This is my (new) GitHub page. <br>
+This is my slightly more professional GitHub page. <br>
 I'm planning to store past challenges and work mainly from quantum-based corners going into the future. <br> <br>
 
 I am highly interested in areas such as machine learning and quantum computing. <br> 
