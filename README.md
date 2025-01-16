@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Welcome to my GitHub! 👋</h1>
   <a href="https://github.com/freesiagaul/freesiagaul/commits/main/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/freesiagaul/freesiagaul/">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/freesiagaul/freesiagaul">
   </a>
   <br><br>
   <!-- I love these gifs so much -->
@@ -17,9 +17,6 @@
     I'm a Quantum Engineering student at UNSW, but find coding on the side fun. <br>
     You may find occasional projects here going into the future, either transferred from <br> my older page or new work.
   </p>
-  <img align="right" src="cropped-wave.gif" alt="Waving GIF" style="width: 100px; height: auto;">
-</div>
-<br><br><br><br><br>
 <h2 align="left">📬 Catch me on the web! 📬</h2>
 <p align="left">
   <a href="http://linkedin.com/in/freesia-g" target="_blank">
