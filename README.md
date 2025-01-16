@@ -13,7 +13,7 @@
 <h1 align="left">Who are you?</h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
-    Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new!) 
+    Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
     I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
     You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
@@ -87,7 +87,7 @@
 ### Frontend Development
 <p align="left">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black">
-    <span>(I need to work on this 😵)</span>
+    <span>(I need to work on this - still in the learning stage 😵)</span>
 </p>
 
 ---
