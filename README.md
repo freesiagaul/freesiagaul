@@ -13,8 +13,8 @@
 <h1 align="left">Who are you?</h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
-    Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new!) <br>
-    I'm a Quantum Engineering student at UNSW, but find coding on the side fun. <br>
+    Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new!) 
+    I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
     You may find occasional projects here going into the future, either transferred from <br> my older page or new work.
   </p>
 <h2 align="left">📬 Catch me on the web! 📬</h2>
@@ -29,6 +29,7 @@
 
 <h3 align="left">(... or watch my contribution graph get eaten by a snake! :) 🐍 )</h3>
 
+<!-- add dark mode when bothered -->
 ![Snake animation](https://github.com/freesiagaul/freesiagaul/blob/output/github-snake.svg)
 
 ---
