@@ -15,7 +15,7 @@
   <p align="left" style="margin-right: 100px;">
     Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new!) 
     I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
-    You may find occasional projects here going into the future, either transferred from <br> my older page or new work.
+    You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
 <h2 align="left">📬 Catch me on the web! 📬</h2>
 <p align="left">
