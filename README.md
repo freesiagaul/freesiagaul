@@ -61,6 +61,8 @@
   <img src="https://img.shields.io/badge/C%23-%239239EF.svg?style=flat&logo=csharp&logoColor=white">
   <!-- SQL: 6/10  -->
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white">
+  <!-- nvim: 8/10 - on the journey to never use a mouse again -->
+  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white">
 </p>
 📚 Working On:
 <p align="left">
