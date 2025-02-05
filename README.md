@@ -126,10 +126,11 @@
 
 ---
 
-### PCB Design (Still have a ways to go to call myself 'good' here 😆)
+### PCB Design
 <p align="left">
     <img src="https://img.shields.io/badge/Altium%20Designer-%23008A93.svg?style=flat&logo=altiumdesigner&logoColor=white">
     <img src="https://img.shields.io/badge/EasyEDA-%2348A9E6.svg?style=flat&logo=easyeda&logoColor=white">
+   (Still have a ways to go to call myself 'good' here 😆)
 </p>
 
 ---
