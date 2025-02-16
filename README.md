@@ -10,22 +10,13 @@
 
 ---
 
-<h1 align="left">Who are you?</h1>
+<h1 align="left">Who am I?</h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
     Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
     I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
     You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
-<h2 align="left">📬 Catch me on the web! 📬</h2>
-<p align="left">
-  <a href="http://linkedin.com/in/freesia-g" target="_blank">
-    <img align="center" src="LinkedIn.png" alt="LinkedIn Profile" height="30">
-  </a>
-  <a href="https://app.daily.dev/freesia" target="_blank">
-    <img align="center" src="daily-dev.png" alt="Daily.dev Profile" height="30">
-  </a>
-</p>
 
 <h3 align="left">(... or watch my contribution graph get eaten by a snake! :) 🐍 )</h3>
 
@@ -33,8 +24,6 @@
 ![Snake animation](https://github.com/freesiagaul/freesiagaul/blob/output/github-snake.svg)
 
 ---
-## 🥞 The Stack (+ other hobbies)
-
 ### Programming Languages & Tools
 <!-- I've added ratings to my languages because you're always learning more things. Note: I don't give myself 10's -->
 <p align="left">
@@ -61,7 +50,7 @@
   <img src="https://img.shields.io/badge/C%23-%239239EF.svg?style=flat&logo=csharp&logoColor=white">
   <!-- SQL: 6/10  -->
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white">
-  <!-- nvim: 8/10 - on the journey to never use a mouse again -->
+  <!-- nvim: 8/10 - on the journey to never use a mouse again! -->
   <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white">
 </p>
 📚 Working On:
@@ -75,86 +64,3 @@
    <!-- RISC-V: 4/10 - same reason as Rust -->
   <img src="https://img.shields.io/badge/RISC%20V-%23F6A800.svg?style=flat&logo=riscv&logoColor=white">
 </p>
-
----
-
-### Backend & DevOps
-<p align="left">
-    <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white">
-    <img src="https://img.shields.io/badge/Linode-%2300A95C.svg?style=flat&logo=linode&logoColor=white">
-</p>
-📚 Working On:
-<p align="left">
-    <img src="https://img.shields.io/badge/CCNA-%2300B5D8.svg?style=flat&logo=cisco&logoColor=white">
-    <img src="https://img.shields.io/badge/Kali%20Linux-%23A1A1A1.svg?style=flat&logo=kali&logoColor=white">
-</p>
-
----
-
-### Hardware & IoT
-<p align="left">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=flat&logo=raspberrypi&logoColor=white">
-    <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat&logo=arduino&logoColor=white">
-</p>
-📚 Working On:
-<p align="left">
-    <img src="https://img.shields.io/badge/Zephyr-%231D3140.svg?style=flat&logo=zephyrproject&logoColor=white">
-    <img src="https://img.shields.io/badge/LoRa-%231D2A6E.svg?style=flat&logo=lorawan&logoColor=white">
-    <img src="https://img.shields.io/badge/Zigbee-%235E91C5.svg?style=flat&logo=zigbee&logoColor=white">
-</p>
-
----
-
-### Frontend Development
-<p align="left">
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black">
-    <span>(I need to work on this - still in the learning stage 😵)</span>
-</p>
-
----
-
-### 3D Printing & Design
-<p align="left">
-    <img src="https://img.shields.io/badge/Prusa%20Mk3%20i3-%23FF6719.svg?style=flat&logo=3dprinting&logoColor=white">
-    <img src="https://img.shields.io/badge/Ender%203-%23008C8C.svg?style=flat&logo=3dprinting&logoColor=white">
-    <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white">
-    <img src="https://img.shields.io/badge/Fusion%20360-%2300A9E5.svg?style=flat&logo=fusion360&logoColor=white">
-    (On a bit of a hiatus)
-</p>
-
----
-
-### PCB Design
-<p align="left">
-    <img src="https://img.shields.io/badge/Altium%20Designer-%23008A93.svg?style=flat&logo=altiumdesigner&logoColor=white">
-    <img src="https://img.shields.io/badge/EasyEDA-%2348A9E6.svg?style=flat&logo=easyeda&logoColor=white">
-   (Still have a ways to go to call myself 'good' here 😆)
-</p>
-
----
-
-### OS's (Locally)
-<p align="left">
-    <img src="https://img.shields.io/badge/Windows-%23008CFF.svg?style=flat&logo=windows&logoColor=white">
-    <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=flat&logo=ubuntu&logoColor=white">
-    <img src="https://img.shields.io/badge/Raspberry%20Pi%20OS-%23C92D1F.svg?style=flat&logo=raspberrypi&logoColor=white">
-    <img src="https://img.shields.io/badge/NixOS-%232D2D2D.svg?style=flat&logo=nixos&logoColor=white">
-    <img src="https://img.shields.io/badge/Tails-%23453378.svg?style=flat&logo=tails&logoColor=white">
-</p>
-
-### Quantum 
-<p align="left">
-    <img src="https://img.shields.io/badge/Cirq-%23009C8C.svg?style=flat&logo=quantum&logoColor=white">
-    <img src="https://img.shields.io/badge/Qiskit-%231F2C6A.svg?style=flat&logo=qiskit&logoColor=white">
-    <img src="https://img.shields.io/badge/QSharp-%233D6A8C.svg?style=flat&logo=qsharp&logoColor=white">
-    <br> (Used these under the context of Quantum work) <br>
-    <img src="https://img.shields.io/badge/IBM%20Cloud-%231F2C6A.svg?style=flat&logo=ibm&logoColor=white">
-    <img src="https://img.shields.io/badge/Microsoft%20Azure-%23007FFF.svg?style=flat&logo=microsoftazure&logoColor=white">
-</p>
-
----
-
-
-
