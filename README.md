@@ -55,12 +55,15 @@
 </p>
 📚 Working On:
 <p align="left">
-    <!-- Ruby: 3/10 - learning. Very interested in making a spinoff of or contributing to SciRate 
+    <!-- Verilog: 4/10 -->
+  <img src="https://img.shields.io/badge/Verilog-%23F00000.svg?style=flat&logo=verilog&logoColor=white">
+     <!-- RISC-V: 4/10 - same reason as Rust -->
+  <img src="https://img.shields.io/badge/RISC%20V-%23F6A800.svg?style=flat&logo=riscv&logoColor=white">
+      <!-- Ruby: 5/10 - learning. Very interested in making a spinoff of or contributing to SciRate 
     which is largely Ruby based -->
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white">
-  <!-- Rust: 4/10 - need to do a proper project with it before I can say i'm any good. I could be
+  <!-- Rust: 4/10 - need to do a proper project with it before I can say I'm any good. I could be
   totally dunning-krugering myself here -->
   <img src="https://img.shields.io/badge/Rust-%2347875A.svg?style=flat&logo=rust&logoColor=white">
-   <!-- RISC-V: 4/10 - same reason as Rust -->
-  <img src="https://img.shields.io/badge/RISC%20V-%23F6A800.svg?style=flat&logo=riscv&logoColor=white">
+
 </p>
