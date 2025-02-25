@@ -1,24 +1,15 @@
 <div align="center">
-  <h1>👋 Welcome to my GitHub! 👋</h1>
-  <a href="https://github.com/freesiagaul/freesiagaul/commits/main/">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/freesiagaul/freesiagaul">
-  </a>
-  <br><br>
-  <!-- I love these gifs so much -->
-  <img src="ascii-jump.gif" alt="ASCII Jump GIF">
 </div>
 
 ---
 
-<h1 align="left">Who am I?</h1>
+<h1 align="left">Hello!</h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
-    Hello! I'm <strong>Freesia</strong>, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
+    I'm Freesia, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
     I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
     You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
-
-<h3 align="left">(... or watch my contribution graph get eaten by a snake! :) 🐍 )</h3>
 
 <!-- add dark mode when bothered -->
 ![Snake animation](https://github.com/freesiagaul/freesiagaul/blob/output/github-snake.svg)
