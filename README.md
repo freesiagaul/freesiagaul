@@ -53,8 +53,9 @@
       <!-- Ruby: 5/10 - learning. Very interested in making a spinoff of or contributing to SciRate 
     which is largely Ruby based -->
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white">
-  <!-- Rust: 4/10 - need to do a proper project with it before I can say I'm any good. I could be
-  totally dunning-krugering myself here -->
+    <!-- Assembly: 4/10 - currently learning and practicing -->
+  <img src="https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=assembly&logoColor=white">
+  <!-- Rust: 5/10 -->
   <img src="https://img.shields.io/badge/Rust-%2347875A.svg?style=flat&logo=rust&logoColor=white">
 
 </p>
