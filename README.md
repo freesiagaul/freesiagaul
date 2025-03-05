@@ -11,9 +11,6 @@
     You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
 
-<!-- add dark mode when bothered -->
-![Snake animation](https://github.com/freesiagaul/freesiagaul/blob/output/github-snake.svg)
-
 ---
 ### Programming Languages & Tools
 <!-- I've added ratings to my languages because you're always learning more things. Note: I don't give myself 10's -->
