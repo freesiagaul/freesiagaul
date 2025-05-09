@@ -1,9 +1,7 @@
 <div align="center">
 </div>
 
----
-
-<h1 align="left">Hello!</h1>
+<h1 align="center">Hello, world! </h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
     I'm Freesia, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
@@ -11,8 +9,8 @@
     You may find occasional projects here going into the future, either transferred from my older page or new work.
   </p>
 
----
-### Programming Languages & Tools
+
+## Programming Languages & Tools
 <!-- I've added ratings to my languages because you're always learning more things. Note: I don't give myself 10's -->
 <p align="left">
   <!-- C: 7/10 -->
@@ -22,6 +20,8 @@
     <!-- Python: 9/10 (my comfort language) -->
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white">
     <!-- JS: 7/10 -->
+  <!-- TypeScript: 7/10 -->
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black">
     <!-- HTML: 9/10 -->
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white">
