@@ -4,13 +4,14 @@
 <h1 align="center">Hello, world! </h1>
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
-    I'm Freesia, and this is my university-based GitHub account (it's new - started using it after iQuHack 2024!) 
-    I'm a Quantum Engineering student at UNSW, but find coding on the side fun. 
+    I'm Freesia! 
+    <div> This is my GitHub account for university (it's new, I started using it after iQuHack 2024!) 
+    I'm a Quantum Engineering student at UNSW, but find coding fun. 
     You may find occasional projects here going into the future, either transferred from my older page or new work.
+    </div>
   </p>
 
-
-## Programming Languages & Tools
+#### What I've Used In Past Projects
 <!-- I've added ratings to my languages because you're always learning more things. Note: I don't give myself 10's -->
 <p align="left">
   <!-- C: 7/10 -->
@@ -28,31 +29,28 @@
     <!-- CSS: 8/10 now that its been updated to be more dynamic I don't have it all down and sometimes
       do things in JS that were possible in CSS3 accidentally -->
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white">
-   <!-- Bash: 9/10 -->
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnubash&logoColor=white">
-  <!-- UNIX: 7/10 -->
-  <img src="https://img.shields.io/badge/Unix-%23D21111.svg?style=flat&logo=unix&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white">
   <!-- C#: 5/10 From game dev and the quantum libraries Q#; I am totally out of practice but can still read 
   it pretty well. I want to revisit it with a project so that I can recall things again. -->
   <img src="https://img.shields.io/badge/C%23-%239239EF.svg?style=flat&logo=csharp&logoColor=white">
   <!-- SQL: 6/10  -->
   <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=flat&logo=postgresql&logoColor=white">
-  <!-- nvim: 8/10 - on the journey to never use a mouse again! -->
-  <img src="https://img.shields.io/badge/Neovim-%2357A143.svg?style=flat&logo=neovim&logoColor=white">
+  <!-- PHP: 5/10 -->
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white">
+  <!-- R: 5/10 -->
+  <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white">
+
 </p>
-📚 Working On:
+Where I'm improving:
 <p align="left">
-    <!-- Verilog: 4/10 -->
-  <img src="https://img.shields.io/badge/Verilog-%23F00000.svg?style=flat&logo=verilog&logoColor=white">
-     <!-- RISC-V: 4/10 - same reason as Rust -->
-  <img src="https://img.shields.io/badge/RISC%20V-%23F6A800.svg?style=flat&logo=riscv&logoColor=white">
       <!-- Ruby: 5/10 - learning. Very interested in making a spinoff of or contributing to SciRate 
     which is largely Ruby based -->
   <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white">
-    <!-- Assembly: 4/10 - currently learning and practicing -->
+    <!-- Assembly: 6/10 - currently learning and practicing -->
   <img src="https://img.shields.io/badge/Assembly-%23A8B9CC.svg?style=flat&logo=assembly&logoColor=white">
   <!-- Rust: 5/10 -->
   <img src="https://img.shields.io/badge/Rust-%2347875A.svg?style=flat&logo=rust&logoColor=white">
-
+  <!-- Verilog: 5/10 -->
+  <img src="https://img.shields.io/badge/Verilog-%23F00000.svg?style=flat&logo=verilog&logoColor=white">
+  <!-- Java: 5/10 -->
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white"> 
 </p>
