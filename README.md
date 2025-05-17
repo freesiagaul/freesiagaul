@@ -7,9 +7,13 @@
     I'm Freesia! 
     <div> This is my GitHub account for university (it's new, I started using it after iQuHack 2024!) 
     I'm a Quantum Engineering student at UNSW, but find coding fun. 
-    You may find occasional projects here going into the future, either transferred from my older page or new work.
+    You may find occasional projects here going into the future, either transferred from my older page or new work. Other than that, feel free to browse or watch my contribution graph get eaten by a snake!
     </div>
   </p>
+
+<!-- add dark mode when bothered -->
+![Snake animation](https://github.com/freesiagaul/freesiagaul/blob/output/github-snake.svg)
+
 
 #### What I've Used In Past Projects
 <!-- I've added ratings to my languages because you're always learning more things. Note: I don't give myself 10's -->
