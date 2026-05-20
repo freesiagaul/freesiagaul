@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center;">
   <p align="left" style="margin-right: 100px;">
     I'm Freesia! 
-    <div> This was my GitHub account for university stuff
+    <div> computer goes beep boop sometimes, sometimes not
     </div>
   </p>
 
